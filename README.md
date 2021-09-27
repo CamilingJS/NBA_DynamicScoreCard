@@ -1,1 +1,1 @@
-"# NBA_DynamicScoreCard" 
+# NBA_DynamicScoreCard
